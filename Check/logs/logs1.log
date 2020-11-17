@@ -1,0 +1,15 @@
+[INFO ] 2020-11-06 12:52:24.932 [main] Log4j - Logged in
+[ERROR] 2020-11-06 12:52:24.943 [main] Log4j - Error!!
+[WARN ] 2020-11-06 12:52:24.944 [main] Log4j - Warning!!!!
+[FATAL] 2020-11-06 12:52:24.944 [main] Log4j - FATAL ERROR
+[INFO ] 2020-11-06 12:53:03.091 [main] Log4j - Logged in
+[ERROR] 2020-11-06 12:53:03.102 [main] Log4j - Error!!
+[WARN ] 2020-11-06 12:53:03.103 [main] Log4j - Warning!!!!
+[FATAL] 2020-11-06 12:53:03.103 [main] Log4j - FATAL ERROR
+[ERROR] 2020-11-06 12:53:50.532 [main] Log4j - Error!!
+[FATAL] 2020-11-06 12:53:50.543 [main] Log4j - FATAL ERROR
+[TRACE] 2020-11-06 12:54:30.033 [main] Log4j - Trace it
+[INFO ] 2020-11-06 12:54:30.044 [main] Log4j - Logged in
+[ERROR] 2020-11-06 12:54:30.045 [main] Log4j - Error!!
+[WARN ] 2020-11-06 12:54:30.081 [main] Log4j - Warning!!!!
+[FATAL] 2020-11-06 12:54:30.082 [main] Log4j - FATAL ERROR
